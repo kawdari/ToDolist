@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+section {
+    margin: 0px 200px;
+
+}
+.todo1 {
+    background-color: rgba(99, 156, 231, 0.418);
+    border-radius: 5px;
+    border-left: 3px solid blue;
+}
+
+.todo1 h1 {
+    font-size: 3em;
+    margin: 0;
+    padding: 0.2em;
+    margin-left: 0.2em;
+    color: whitesmoke;
+}
+
+.todo2 {
+    border-top: 3px solid blue;
+    margin-top: 15px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 1em;
+}
+
+.btn {
+    text-align: right;
+}
+
+
+.ntaches {
+    border-radius: 5px;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+
+/* icon */
+i {
+    text-align: right;
+    padding: 0.5em;
+   
+}
+
+.ntaches {
+    text-align: right;
+    background-color: blue;
+}
+
+input {
+text-align: left;
+}
+
+
+.green {
+    background-color: green;
+    border-radius: 5px;
+    padding: 1em;
+    margin-top: 1em;
+    text-align: right;
+}
+
+/* terug rood */
+
+.rouge {
+    background-color: red;
+    border-radius: 5px;
+    padding: 1em;
+    margin-top: 1em;
+    text-align: right;
+}
+
+
+.invisible{
+    display: none;
+}
+
+.rouges{
+    border-radius: 5px;
+    padding: 1em;
+    margin-top: 1em;
+    background-color: red;
+    text-align: right;
+    position: relative;   
+}
+.greenn{
+    margin-top: 20px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    position: relative;   
+}
